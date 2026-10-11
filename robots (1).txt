@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://symptomsiq-wen.vercel.app/sitemap.xml
